@@ -113,6 +113,7 @@ ul.nav.navbar-nav.navbar-right {
   padding: 5px 0px;
   border-radius: 0;
   text-transform: uppercase;
+  position: sticky;
 }
 .navbar-default .navbar-nav > li > a {
   color: black;
